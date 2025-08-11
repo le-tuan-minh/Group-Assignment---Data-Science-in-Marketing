@@ -24,7 +24,7 @@
 - 🌐 `app.py`: Mã nguồn Flask để triển khai hệ thống gợi ý thành ứng dụng web.  
 - 💻 `index.html`: Giao diện web đơn giản cho hệ thống gợi ý.  
 - 📈 `network_graph.html`: Biểu đồ mạng thể hiện mối quan hệ giữa các sản phẩm được mua kèm nhau.
-- 📅 `data.rar`: Tệp nén chứa các file data định dạng csv, bao gồm file data được clean và các data matrix phục vụ việc xây dựng web.
+- 📅 `data.rar`: Tệp nén chứa các file data định dạng csv, bao gồm file data được clean và các data matrix phục vụ việc xây dựng web. Data gốc được giảng viên trích từ link https://archive.ics.uci.edu/dataset/352/online+retail
 
 ---
 
